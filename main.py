@@ -292,13 +292,13 @@ def send_message():
   <footer class="footer">
     <p>© 2025  𝐃𝐞𝐕𝐢𝐋 𝐇𝐞𝐑𝐞✌️😈🐧</p>
     <p> 😎SHIBAJI🌹 
-      <a href="https://www.facebook.com/BL9CK.D3V1L" class="social-link">
+      <a href="https://www.facebook.com/mahomad.afroj.7">
         <i class="fab fa-facebook"></i> ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ
       </a>
     </p>
     <div class="mb-3">
-      <a href="https://wa.me/+917668337116" class="whatsapp-link">
-        <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+      
+        <i class="fab"></i> Chat on
       </a>
     </div>
   </footer>
