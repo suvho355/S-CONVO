@@ -298,7 +298,7 @@ def send_message():
     </p>
     <div class="mb-3">
       
-        <i class="fab"></i> Chat on
+        <i class="fab"></i> 
       </a>
     </div>
   </footer>
